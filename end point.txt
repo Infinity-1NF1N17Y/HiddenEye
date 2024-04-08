@@ -1,0 +1,6 @@
+
+What is Endpoint Security? 
+Endpoint security is the process of protecting devices like workstations,
+servers, and other devices (that can accept a security client) from malicious
+threats and cyberattacks
+https://isha.sadhguru.org/
